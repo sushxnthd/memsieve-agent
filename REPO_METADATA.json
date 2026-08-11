@@ -1,0 +1,12 @@
+{
+  "name": "memsieve-agent",
+  "description": "Budgeted memory retention and retrieval policies for long-running AI agents.",
+  "topics": [
+    "ai-agents",
+    "memory",
+    "retrieval",
+    "llm-agents",
+    "agent-memory"
+  ],
+  "visibility": "public"
+}

@@ -1,0 +1,6 @@
+{
+  "trials": 200,
+  "top1_recall": 1.0,
+  "memory_budget": 24,
+  "stream_length": 81
+}
