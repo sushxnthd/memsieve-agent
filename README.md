@@ -1,6 +1,7 @@
 # memsieve-agent
 
 [![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF)](.github/workflows/ci.yml) [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB)](pyproject.toml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[**Live demo →**](https://sushxnthd.github.io/memsieve-agent/) · [Architecture](docs/architecture.md) · [Benchmarks](benchmarks/results.json)
 
 
 A small memory controller for long-running agents: suppress near-duplicates, retain high-value items under a hard budget, and retrieve using relevance plus recency/importance/usage.
